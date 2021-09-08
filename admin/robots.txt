@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin
+Allow: /admin/upload
+Disallow: /admin/upload/trabalhe_conosco

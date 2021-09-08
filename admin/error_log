@@ -1,0 +1,51 @@
+[11-Dec-2017 17:01:35 America/Chicago] PHP Fatal error:  Call to undefined method Anuncio_model::duplicar() in /home/sebop851/public_html/admin/application/controllers/Anuncios.php on line 332
+[15-Dec-2017 07:07:39 America/Chicago] PHP Fatal error:  Call to a member function get() on null in /home/sebop851/public_html/admin/application/controllers/Anuncios.php on line 393
+[15-Dec-2017 07:13:43 America/Chicago] PHP Fatal error:  Call to a member function get() on null in /home/sebop851/public_html/admin/application/controllers/Anuncios.php on line 393
+[17-Dec-2017 18:36:34 America/Chicago] PHP Fatal error:  Call to a member function get() on null in /home/sebop851/public_html/admin/application/controllers/Anuncios.php on line 393
+[18-Dec-2017 06:44:55 America/Chicago] PHP Fatal error:  Call to a member function get() on null in /home/sebop851/public_html/admin/application/controllers/Anuncios.php on line 393
+[21-Dec-2017 05:49:30 America/Chicago] PHP Fatal error:  Call to a member function get() on null in /home/sebop851/public_html/admin/application/controllers/Anuncios.php on line 394
+[21-Dec-2017 05:50:06 America/Chicago] PHP Fatal error:  Call to a member function get() on null in /home/sebop851/public_html/admin/application/controllers/Anuncios.php on line 394
+[21-Dec-2017 05:50:34 America/Chicago] PHP Fatal error:  Call to a member function get() on null in /home/sebop851/public_html/admin/application/controllers/Anuncios.php on line 394
+[21-Dec-2017 12:24:35 America/Chicago] PHP Fatal error:  Call to a member function get() on null in /home/sebop851/public_html/admin/application/controllers/Anuncios.php on line 394
+[22-Dec-2017 07:10:30 America/Chicago] PHP Fatal error:  Call to a member function get() on null in /home/sebop851/public_html/admin/application/controllers/Anuncios.php on line 394
+[22-Dec-2017 10:48:37 America/Chicago] PHP Fatal error:  Call to a member function get() on null in /home/sebop851/public_html/admin/application/controllers/Anuncios.php on line 394
+[23-Jan-2018 15:14:11 America/Chicago] PHP Parse error:  syntax error, unexpected ''capa'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/sebop851/public_html/admin/application/models/Anuncio_model.php on line 175
+[23-Jan-2018 15:14:26 America/Chicago] PHP Parse error:  syntax error, unexpected ''capa'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/sebop851/public_html/admin/application/models/Anuncio_model.php on line 175
+[23-Jan-2018 15:14:39 America/Chicago] PHP Parse error:  syntax error, unexpected ''capa'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/sebop851/public_html/admin/application/models/Anuncio_model.php on line 175
+[23-Jan-2018 17:44:53 America/Chicago] PHP Parse error:  syntax error, unexpected ''capa'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/sebop851/public_html/admin/application/models/Anuncio_model.php on line 175
+[23-Jan-2018 17:49:29 America/Chicago] PHP Fatal error:  Class 'MY_Controller' not found in /home/sebop851/public_html/admin/application/controllers/Usuarios.php on line 3
+[23-Jan-2018 17:50:19 America/Chicago] PHP Fatal error:  Class 'MY_Controller' not found in /home/sebop851/public_html/admin/application/controllers/Usuarios.php on line 3
+[05-May-2018 20:52:57 America/Chicago] PHP Parse error:  syntax error, unexpected '(' in /home/sebop851/public_html/admin/application/controllers/Anuncios.php on line 56
+[05-May-2018 20:53:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'site_url' (T_STRING) in /home/sebop851/public_html/admin/application/controllers/Anuncios.php on line 61
+[26-May-2018 09:06:53 America/Chicago] PHP Fatal error:  Call to undefined method Cliente_model::get_paginate() in /home/sebop851/public_html/admin/application/controllers/Clientes.php on line 23
+[26-May-2018 13:40:43 America/Chicago] PHP Fatal error:  Call to undefined method Anuncio_model::pedidos_aguardando() in /home/sebop851/public_html/admin/application/core/MY_Controller.php on line 41
+[26-May-2018 13:40:56 America/Chicago] PHP Fatal error:  Call to undefined method Anuncio_model::pedidos_aguardando() in /home/sebop851/public_html/admin/application/core/MY_Controller.php on line 41
+[26-May-2018 13:41:15 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::count() in /home/sebop851/public_html/admin/application/models/Anuncio_model.php on line 389
+[26-May-2018 18:09:04 America/Chicago] PHP Fatal error:  Call to a member function create_links() on null in /home/sebop851/public_html/admin/application/views/anuncios/listar.php on line 96
+[26-May-2018 18:09:29 America/Chicago] PHP Fatal error:  Call to a member function create_links() on null in /home/sebop851/public_html/admin/application/views/anuncios/listar.php on line 96
+[26-May-2018 18:10:07 America/Chicago] PHP Fatal error:  Call to a member function create_links() on null in /home/sebop851/public_html/admin/application/views/anuncios/listar.php on line 96
+[26-May-2018 18:10:38 America/Chicago] PHP Fatal error:  Call to a member function create_links() on null in /home/sebop851/public_html/admin/application/views/anuncios/listar.php on line 96
+[26-May-2018 18:11:20 America/Chicago] PHP Fatal error:  Call to a member function create_links() on null in /home/sebop851/public_html/admin/application/views/anuncios/listar.php on line 66
+[26-May-2018 18:11:48 America/Chicago] PHP Fatal error:  Call to a member function create_links() on null in /home/sebop851/public_html/admin/application/views/anuncios/listar.php on line 66
+[30-May-2018 13:21:54 America/Chicago] PHP Fatal error:  Call to a member function get() on null in /home/sebop851/public_html/admin/application/controllers/Pedidos.php on line 168
+[30-May-2018 13:22:47 America/Chicago] PHP Fatal error:  Call to undefined method Venda_model::mudarStatusPedido() in /home/sebop851/public_html/admin/application/controllers/Pedidos.php on line 171
+[30-May-2018 13:58:20 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/sebop851/public_html/admin/application/controllers/Pedidos.php on line 173
+[30-May-2018 13:58:57 America/Chicago] PHP Fatal error:  Call to undefined method Venda_model::codigo_rastreio() in /home/sebop851/public_html/admin/application/controllers/Pedidos.php on line 174
+[31-May-2018 12:17:56 America/Chicago] PHP Parse error:  syntax error, unexpected '*' in /home/sebop851/public_html/admin/application/controllers/Pedidos.php on line 511
+[31-May-2018 12:18:56 America/Chicago] PHP Parse error:  syntax error, unexpected '*' in /home/sebop851/public_html/admin/application/controllers/Pedidos.php on line 511
+[01-Jun-2018 18:25:16 America/Chicago] PHP Fatal error:  Cannot redeclare Anuncio_model::get_paginate_finalizados() in /home/sebop851/public_html/admin/application/models/Anuncio_model.php on line 516
+[01-Jun-2018 18:28:21 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/sebop851/public_html/admin/application/models/Anuncio_model.php on line 502
+[05-Jun-2018 17:30:42 America/Chicago] PHP Fatal error:  Call to a member function post() on null in /home/sebop851/public_html/admin/application/controllers/Anuncios.php on line 622
+[23-Jun-2018 19:12:56 America/Chicago] PHP Parse error:  syntax error, unexpected ']' in /home/sebop851/public_html/admin/application/views/pedidos/editar.php on line 351
+[23-Jun-2018 19:12:57 America/Chicago] PHP Parse error:  syntax error, unexpected ']' in /home/sebop851/public_html/admin/application/views/pedidos/editar.php on line 351
+[30-Jun-2018 17:20:24 America/Chicago] PHP Parse error:  syntax error, unexpected ''; ?>">' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/sebop851/public_html/admin/application/views/pedidos/editar.php on line 167
+[30-Jun-2018 17:20:26 America/Chicago] PHP Parse error:  syntax error, unexpected ''; ?>">' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/sebop851/public_html/admin/application/views/pedidos/editar.php on line 167
+[30-Jun-2018 20:22:15 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/sebop851/public_html/admin/application/models/Anuncio_model.php on line 175
+[30-Jun-2018 20:22:16 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/sebop851/public_html/admin/application/models/Anuncio_model.php on line 175
+[30-Jun-2018 20:22:20 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/sebop851/public_html/admin/application/models/Anuncio_model.php on line 175
+[30-Jun-2018 20:22:21 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/sebop851/public_html/admin/application/models/Anuncio_model.php on line 175
+[30-Jun-2018 20:29:57 America/Chicago] PHP Warning:  Unterminated comment starting line 478 in /home/sebop851/public_html/admin/application/models/Anuncio_model.php on line 478
+[30-Jun-2018 20:29:57 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/sebop851/public_html/admin/application/models/Anuncio_model.php on line 510
+[30-Jun-2018 20:31:48 America/Chicago] PHP Warning:  Unterminated comment starting line 477 in /home/sebop851/public_html/admin/application/models/Anuncio_model.php on line 477
+[30-Jun-2018 20:31:48 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/sebop851/public_html/admin/application/models/Anuncio_model.php on line 509
+[21-Jul-2018 07:07:03 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/sebop851/public_html/admin/application/models/Anuncio_model.php on line 618

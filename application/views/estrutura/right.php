@@ -1,4 +1,4 @@
-<div class="quick_access col-3 col-md-3 col-sm-4 col-xsm-12">
+<div class="quick_access col-3 col-md-3 col-sm-4 col-xsm-12" id="quick_access_right">
   <div class="search">
     <form action="<?php echo base_url('posts/list'); ?>" method="get"  >
       <input type="text" name="q" placeholder="Pesquisar..." <?php if ($this->input->get('q')) { echo "value='".$this->input->get('q')."'"; } ?>>

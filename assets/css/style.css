@@ -225,6 +225,8 @@ header#header-mobile #logo{
     font-size: 2.2em;
     position: absolute;
     margin: 2%;
+    max-width: 100px;
+    max-height: 100px;
 }
 .each .header .calendar span{
 	color: #5fa2fb;
